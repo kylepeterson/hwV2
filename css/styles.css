@@ -62,6 +62,7 @@ a h1 {
 	position: absolute;
 	z-index: 10;
 	left: 38%;
+	background-color: white;
 }
 
 a li {
