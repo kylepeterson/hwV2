@@ -8,7 +8,7 @@
 /* Styles for the entire site */
 body {
 	font-family: 'Open Sans', sans-serif;
-	background-image: url("../img/triangular.png");
+	background-image: url("../img/hexabump.png");
 }
 
 #content {
@@ -63,6 +63,8 @@ a h1 {
 	left: 38%;
 	background-color: black;
 	border-radius: 0 0 20px 20px;
+	background-image: url("../img/hexabump.png");
+
 
 }
 
