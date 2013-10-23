@@ -43,7 +43,6 @@ a h1 {
 	font-size: 2em;
 	top: 148px;
 	background-color: rgb(156, 117, 202);
-	border-radius: 0 0 20px 20px;
 	padding-bottom: 10px;
 }
 
@@ -63,6 +62,8 @@ a h1 {
 	z-index: 10;
 	left: 38%;
 	background-color: black;
+	border-radius: 0 0 20px 20px;
+
 }
 
 a li {
