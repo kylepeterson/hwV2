@@ -189,7 +189,6 @@ iframe {
 
 #info p {
 	padding-bottom: 1em;
-	padding-top: 1em;
 }
 
 #twitter {
@@ -205,6 +204,10 @@ iframe {
 	text-decoration: underline;
 }
 
+#info .row {
+	background-color: white;
+	padding-top: 1em;
+}
 
 /* Menu Section of the menu page */
 
