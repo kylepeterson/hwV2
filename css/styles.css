@@ -19,7 +19,7 @@ body {
 	background-attachment: fixed;
 }
 
-#content {
+.container {
 	width: 820px;
 	margin: 0 auto;
 	margin-bottom: 50px;
@@ -147,8 +147,7 @@ iframe {
 }
 
 .info-pane {
-	width: 46%;
-	height: 200px;
+	width: 50%;
 	padding: 2%;
 	margin: 0;
 	background-color: white;
