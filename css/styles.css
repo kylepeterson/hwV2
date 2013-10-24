@@ -158,7 +158,7 @@ iframe {
 
 /* Information section on the home page */
 #info {
-	color: black;
+	color: white;
 	margin: 0;
 	font-size: 1em;
 	font-weight: bold;	
@@ -177,12 +177,8 @@ iframe {
 }
 
 .info-pane {
-	width: 50%;
-	padding: 2%;
 	margin: 0;
 	background-color: rgba(255,255,255,.2);
-
-
 }
 
 #info p {
@@ -197,6 +193,7 @@ iframe {
 #menu {
 	background-color: white;
 }
+
 #info a:hover {
 	text-decoration: underline;
 }

@@ -17,8 +17,7 @@
 
 			<section id="info">
 				<div class="row">
-					<div class="col-md-6">
-						<div class="info-pane">
+						<div class="info-pane" class="info-pane">
 							<p>
 								Hours:
 								<br>
@@ -33,10 +32,9 @@
 									Seattle WA 98105
 								</a>
 							</address>
-						</div>
+						
 					</div>
-					<div class="col-md-6">
-						<div class = "info-pane">
+					<div class="col-md-6" class="info-pane">
 							<p>
 								Phone:
 								<br>
@@ -55,7 +53,6 @@
 								<a href="https://twitter.com/dawgpizzaseattle">@dawgpizzaseattle</a>
 							</p>
 							<!-- <a href="https://twitter.com/dawgpizzaseattle"><img src="img/light_twitter.png" id="twitter"></a> -->	
-						</div>
 					</div>
 				</div>
 			</section>
