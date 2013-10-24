@@ -913,7 +913,7 @@ pre code {
   width: 100%;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 820px) {
   .container {
     max-width: 500px;
   }
