@@ -70,6 +70,7 @@ a h1 {
 }
 header a {
 	width: 38%;
+	margin-top: 10px;
 }
 
 .leaf {
