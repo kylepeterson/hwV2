@@ -70,7 +70,6 @@ a h1 {
 }
 header a {
 	width: 38%;
-	margin-top: 10px;
 }
 
 .leaf {
@@ -83,13 +82,14 @@ header a {
 
 }
 
-.logo, a h1 {
+.logo {
 	width: 24%;
 	height: auto;
 	position: absolute;
 	z-index: 10;
 	left: 38%;
 	border-radius: 0 0 20px 20px;
+	padding-right: 5%;
 }
 
 .logo, a h1, .leaf, .container {
