@@ -6,11 +6,10 @@
 <!--#include virtual="header.html" -->
 			<section>
 				<img id="pizza1" src="img/pizza1.jpg">
+				<p id="description">
+					Awesome wood-fired pizza with fresh ingredients baked to order. Come in and eat, or call us for delivery!
+				</p>
 			</section>
-
-			<p id="description">
-				Awesome wood-fired pizza with fresh ingredients baked to order. Come in and eat, or call us for delivery!
-			</p>
 
 			<section id="main-page-content">
 				<iframe src="//www.youtube.com/embed/HWL__9yDu8I" allowfullscreen></iframe>
