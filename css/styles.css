@@ -8,7 +8,7 @@
 /* Styles for the entire site */
 body {
 	font-family: 'Open Sans', sans-serif;
-	background-image: url("../img/hexabump.png");
+	background-image: url("../img/triangular.png");
 }
 
 #content {
@@ -42,6 +42,7 @@ a h1 {
 	font-weight: bold;
 	font-size: 2em;
 	top: 148px;
+	background-image: url("../img/hexabump.png");
 	background-color: rgb(156, 117, 202);
 	padding-bottom: 10px;
 }
