@@ -157,6 +157,10 @@ iframe {
 	height: 360px;
 }
 
+p iframe {
+	display: inline;
+}
+
 /* Information section on the home page */
 #info {
 	color: black;
