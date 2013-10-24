@@ -189,6 +189,10 @@ h3 {
 	padding-bottom: .15em;
 }
 
+ul { 
+	padding-bottom: .25em;
+}
+
 dt {
 	font-weight: bold;
 	padding-bottom: .25em;
@@ -209,7 +213,7 @@ dd, li {
 }
 
 .pizzas div {
-	width: 45%;
+	width: 50%;
 }
 
 #drinks-and-dessert {
