@@ -48,7 +48,7 @@ body {
 	float: right;
 }
 
-:focus {
+img:focus {
 	outline: rgb(106, 49, 142) solid 2px;
 }
 
