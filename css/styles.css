@@ -25,7 +25,6 @@ body {
 	margin-top: 50px;
 	margin-bottom: 50px;
 	position: relative;
-	background-image: url("../img/hexabump.png");
 
 }
 
@@ -66,12 +65,11 @@ header a {
 
 .leaf {
 	text-align: center;
+	text-decoration: none;
 	font-weight: bold;
-	font-size: 2.5em;
-	padding-top:  10px;
-	padding-bottom: 10px;
+	font-size: 250%;
+	padding: 10px;
 	color: rgb(255, 206, 71);
-	background-image: url("../img/hexabump.png");
 
 }
 
@@ -81,17 +79,12 @@ header a {
 	position: absolute;
 	z-index: 10;
 	left: 38%;
-	background-color: black;
 	border-radius: 0 0 20px 20px;
-	background-image: url("../img/hexabump.png");
-
-
 }
 
-a li {
-	text-decoration: none;
-	display: inline-block;
-	background-color: rgb(105, 48, 142);
+.logo, a h1, .leaf, .container {
+	background-image: url("../img/hexabump.png");
+}
 
 }
 
