@@ -208,6 +208,7 @@ dd, li, dl, h1, h2, h3, dt, ul, #menu p {
 }
 
 #drinks-and-dessert {
+	width: 100%;
 	margin-top: 20px;
 	clear: both;
 	margin-left: auto;
