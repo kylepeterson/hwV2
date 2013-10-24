@@ -124,12 +124,14 @@ nav li:hover, nav h1:hover {
 @media (min-width: 820px) {
   #description {
 	font-size: 1em 
+	top: 33%;
   }
 }
 
 @media (min-width: 992px) {
   #description {
 	font-size: 2em 
+	top: 33%;
   }
 }
 
@@ -139,7 +141,6 @@ nav li:hover, nav h1:hover {
 	font-style: italic;
 	z-index: 15;
 	left: 38%;
-	top: 33%;
 	padding: .5em;
 }
 
