@@ -35,24 +35,23 @@
 						
 					</div>
 					<div class="col-md-6" class="info-pane">
-							<p>
-								Phone:
-								<br>
-								206-555-1212 <br>
-							</p>
+						<p>
+							Phone:
+							<br>
+							206-555-1212 <br>
+						</p>
 
-							<p>
-								E-Mail: 
-								<br>
-								<a href="mailto:dawgpizzaseattle@gmail.com">dawgpizzaseattle@gmail.com</a>
-							</p>
+						<p>
+							E-Mail: 
+							<br>
+							<a href="mailto:dawgpizzaseattle@gmail.com">dawgpizzaseattle@gmail.com</a>
+						</p>
 
-							<p>
-								Twitter
-								<br>
-								<a href="https://twitter.com/dawgpizzaseattle">@dawgpizzaseattle</a>
-							</p>
-							<!-- <a href="https://twitter.com/dawgpizzaseattle"><img src="img/light_twitter.png" id="twitter"></a> -->	
+						<p>
+							Twitter
+							<br>
+							<a href="https://twitter.com/dawgpizzaseattle">@dawgpizzaseattle</a>
+						</p>
 					</div>
 				</div>
 			</section>
