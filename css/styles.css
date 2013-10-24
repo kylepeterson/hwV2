@@ -119,6 +119,8 @@ nav li:hover, nav h1:hover {
 
 iframe {
 	border: 0;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /* Information section on the home page */
