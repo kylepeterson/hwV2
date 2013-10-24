@@ -111,9 +111,7 @@ a {
 }
 
 nav li:hover, nav h1:hover {
-	background-color: rgb(64, 23, 111);
 	color: rgb(106, 49, 142);
-	text-decoration: none;
 }
 
 /* Main Section of the Home page */
@@ -191,6 +189,7 @@ iframe {
 
 #info p {
 	padding-bottom: 1em;
+	padding-top: 1em;
 }
 
 #twitter {
@@ -206,9 +205,6 @@ iframe {
 	text-decoration: underline;
 }
 
-#info .row {
-	background-color: white;
-}
 
 /* Menu Section of the menu page */
 
