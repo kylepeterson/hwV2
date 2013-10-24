@@ -113,6 +113,7 @@ a {
 nav li:hover, nav h1:hover {
 	background-color: rgb(64, 23, 111);
 	color: rgb(106, 49, 142);
+	text-decoration: none;
 }
 
 /* Main Section of the Home page */
