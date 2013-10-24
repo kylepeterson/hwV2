@@ -176,12 +176,10 @@ iframe {
 /* Menu Section of the menu page */
 h1 {
 	font-size: 4em;
-	padding: .5em 0;
 }
 
 h2 {
 	font-size: 3em;
-	padding-bottom: .5em;
 }
 
 h3 {
@@ -189,16 +187,11 @@ h3 {
 	padding-bottom: .25em;
 }
 
-ul { 
-	padding-bottom: .5em;
-}
-
 dt {
 	font-weight: bold;
-	padding-bottom: .5em;
 }
 
-dd, li {
+dd, li, dl, h1, h2, dt, ul, #menu p {
 	padding-bottom: .5em;
 }
 
@@ -209,7 +202,6 @@ dd, li {
 
 #menu p {
 	font-weight: bold;
-	padding-bottom: .5em;
 }
 
 .pizzas div {
