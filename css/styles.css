@@ -110,14 +110,36 @@ nav li:hover, nav h1:hover {
 	margin: 0;
 }
 
+@media (min-width: 820px) {
+  #description {
+	font-size: 2em 
+  }
+}
+
+@media (min-width: 820px) {
+  #description {
+	font-size: 2em 
+  }
+}
+
+@media (min-width: 820px) {
+  #description {
+	font-size: 2em 
+  }
+}
+
+@media (min-width: 820px) {
+  #description {
+	font-size: 2em 
+  }
+}
 #description {
 	position: absolute;
 	background-color: white;
 	font-style: italic;
-	font-size: 2em;
 	z-index: 15;
 	left: 38%;
-	top: 410px;
+	top: 33%;
 	padding: .5em;
 }
 
