@@ -48,7 +48,7 @@ body {
 	float: right;
 }
 
-a img:focus {
+.logo-link:focus img {
 	outline: rgb(106, 49, 142) solid 2px;
 	background-color: rgb(106, 49, 142);
 }
