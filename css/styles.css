@@ -133,7 +133,7 @@ nav li:hover, nav h1:hover {
 @media (min-width: 1px) {
   #description {
 	font-size: 1em;
-	top: 33%;
+	top: 25%;
   }
 }
 
@@ -159,7 +159,7 @@ iframe {
 
 /* Information section on the home page */
 #info {
-	color: white;
+	color: black;
 	margin: 0;
 	font-size: 1em;
 	font-weight: bold;	
@@ -184,7 +184,7 @@ iframe {
 
 #info .col-md-6 {
 	padding: 0;
-	background-color: rgba(255,255,255,.2);
+	background-color: white;
 }
 
 #info p {
