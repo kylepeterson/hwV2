@@ -184,7 +184,6 @@ h2 {
 
 h3 {
 	font-size: 2em;
-	padding-bottom: .25em;
 }
 
 dt {
@@ -193,6 +192,10 @@ dt {
 
 dd, li, dl, h1, h2, dt, ul, #menu p {
 	padding-bottom: .5em;
+}
+
+dt, li {
+	padding-bottom: .25em;
 }
 
 #menu {
