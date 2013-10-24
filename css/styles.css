@@ -28,6 +28,10 @@ body {
 	float: right;
 }
 
+.clear-both {
+	clear: both;
+}
+
 /* Header area of the web page */
 header {
 	background-color: rgb(156, 117, 202);
@@ -139,7 +143,6 @@ iframe {
 	height: 200px;
 	padding: 2%;
 	margin: 0;
-	float: left;
 	background-color: white;
 	font-size: 1.5em;
 
@@ -194,6 +197,10 @@ dd, li {
 #menu p {
 	font-weight: bold;
 	padding-bottom: .25em;
+}
+
+#menu div {
+	width: 45%;
 }
 
 strong {

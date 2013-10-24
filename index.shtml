@@ -17,7 +17,7 @@
 			</section>
 
 			<section id="info">
-				<div class = "info-pane">
+				<div class="info-pane" class="pull-left">
 					<p>
 						Hours:
 						<br>
@@ -33,7 +33,7 @@
 						</a>
 					</address>
 				</div>
-				<div class = "info-pane">
+				<div class = "info-pane" class="pull-left">
 					<p>
 						Phone:
 						<br>
