@@ -49,7 +49,7 @@ body {
 }
 
 :focus {
-	outline: rgb(106, 49, 142);
+	outline: rgb(106, 49, 142) solid 2px;
 }
 
 /* Header area of the web page */
