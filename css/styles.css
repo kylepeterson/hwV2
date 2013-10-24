@@ -43,7 +43,7 @@ a h1 {
 	font-size: 2em;
 	top: 148px;
 	background-image: url("../img/hexabump.png");
-	background-color: rgb(156, 117, 202);
+	/*background-color: rgb(156, 117, 202);*/
 	padding-bottom: 10px;
 }
 
