@@ -11,7 +11,7 @@ body {
 	background-color: black;
 }
 
-#content {
+.container {
 	width: 820px;
 	margin: 0 auto;
 	margin-bottom: 50px;
