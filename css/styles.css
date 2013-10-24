@@ -19,8 +19,13 @@ body {
 	background-attachment: fixed;
 }
 
-
+@media (min-width: 0px) {
+  .container {
+	max-width: 500px; 
+  }
+}
 .container {
+	ma
 	margin: 0 auto;
 	margin-top: 50px;
 	margin-bottom: 50px;
