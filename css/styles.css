@@ -190,7 +190,7 @@ dt {
 	font-weight: bold;
 }
 
-dd, li, dl, h1, h2, h3 dt, ul, #menu p {
+dd, li, dl, h1, h2, h3, dt, ul, #menu p {
 	padding-bottom: .5em;
 }
 
@@ -203,7 +203,7 @@ dd, li, dl, h1, h2, h3 dt, ul, #menu p {
 	font-weight: bold;
 }
 
-.pizzas div {
+.menu div {
 	width: 50%;
 }
 
