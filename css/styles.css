@@ -165,19 +165,18 @@ iframe {
 }
 
 @media (min-width: 1px) {
-  	.info-pane {
+  	#info .col-md-6  {
 		font-size: 1em;  	
 	}
 }
 
 @media (min-width: 992px) {
-	.info-pane {
+	#info .col-md-6  {
 		font-size: 1.5em;
 	}
 }
 
-.info-pane {
-	margin: 0;
+#info .col-md-6 {
 	background-color: rgba(255,255,255,.2);
 }
 
