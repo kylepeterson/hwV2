@@ -54,6 +54,4 @@
 					<!-- <a href="https://twitter.com/dawgpizzaseattle"><img src="img/light_twitter.png" id="twitter"></a> -->	
 				</div>
 			</section>
-		</section>
-	</body>
-</html>
+		<!--#include virtual="footer.html" -->
