@@ -16,41 +16,47 @@
 			</section>
 
 			<section id="info">
-				<div class="info-pane">
-					<p>
-						Hours:
-						<br>
-						Monday - Sunday <br>
-						10AM to 11PM
-					</p>
-					<address>
-						Address:
-						<br>
-						<a href="https://maps.google.com/maps?q=4306+University+Way+NE+Seattle+WA+98105&ie=UTF-8&ei=ajZWUtX7FcqdjALwlYHYBw&ved=0CAoQ_AUoAg">
-							4306 University Way NE <br>
-							Seattle WA 98105
-						</a>
-					</address>
-				</div>
-				<div class = "info-pane">
-					<p>
-						Phone:
-						<br>
-						206-555-1212 <br>
-					</p>
+				<div class="row">
+					<div class="col-md-6">
+						<div class="info-pane">
+							<p>
+								Hours:
+								<br>
+								Monday - Sunday <br>
+								10AM to 11PM
+							</p>
+							<address>
+								Address:
+								<br>
+								<a href="https://maps.google.com/maps?q=4306+University+Way+NE+Seattle+WA+98105&ie=UTF-8&ei=ajZWUtX7FcqdjALwlYHYBw&ved=0CAoQ_AUoAg">
+									4306 University Way NE <br>
+									Seattle WA 98105
+								</a>
+							</address>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class = "info-pane">
+							<p>
+								Phone:
+								<br>
+								206-555-1212 <br>
+							</p>
 
-					<p>
-						E-Mail: 
-						<br>
-						<a href="mailto:dawgpizzaseattle@gmail.com">dawgpizzaseattle@gmail.com</a>
-					</p>
+							<p>
+								E-Mail: 
+								<br>
+								<a href="mailto:dawgpizzaseattle@gmail.com">dawgpizzaseattle@gmail.com</a>
+							</p>
 
-					<p>
-						Twitter
-						<br>
-						<a href="https://twitter.com/dawgpizzaseattle">@dawgpizzaseattle</a>
-					</p>
-					<!-- <a href="https://twitter.com/dawgpizzaseattle"><img src="img/light_twitter.png" id="twitter"></a> -->	
+							<p>
+								Twitter
+								<br>
+								<a href="https://twitter.com/dawgpizzaseattle">@dawgpizzaseattle</a>
+							</p>
+							<!-- <a href="https://twitter.com/dawgpizzaseattle"><img src="img/light_twitter.png" id="twitter"></a> -->	
+						</div>
+					</div>
 				</div>
 			</section>
 		<!--#include virtual="footer.html" -->
