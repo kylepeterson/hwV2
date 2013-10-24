@@ -13,7 +13,7 @@
 			</p>
 
 			<section id="main-page-content">
-				<iframe width="640" height="480" src="//www.youtube.com/embed/HWL__9yDu8I" allowfullscreen></iframe>
+				<iframe src="//www.youtube.com/embed/HWL__9yDu8I" allowfullscreen></iframe>
 			</section>
 
 			<section id="info">
