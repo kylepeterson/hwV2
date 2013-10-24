@@ -107,12 +107,12 @@ img {
 
 a {
 	text-decoration: none;
-	color: rgb(0, 8, 63);
+	color: rgb(106, 49, 142);
 }
 
 nav li:hover, nav h1:hover {
 	background-color: rgb(64, 23, 111);
-	color: white;
+	color: rgb(106, 49, 142);
 }
 
 /* Main Section of the Home page */
