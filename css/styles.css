@@ -164,6 +164,11 @@ iframe {
 	font-weight: bold;	
 }
 
+.row {
+	margin-right: 0;
+	margin-left: 0;
+}
+
 @media (min-width: 1px) {
   	#info .col-md-6  {
 		font-size: 1em;  	
