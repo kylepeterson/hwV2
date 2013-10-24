@@ -8,7 +8,8 @@
 /* Styles for the entire site */
 body {
 	font-family: 'Open Sans', sans-serif;
-	background-color: black;
+	background-image: url("../img/stone1.jpg");
+	background-repeat: repeat;
 }
 
 #content {
@@ -200,9 +201,6 @@ dd, li {
 	padding-bottom: .25em;
 }
 
-.pizzas {
-	padding: 5%;
-}
 .pizzas div {
 	width: 45%;
 }
