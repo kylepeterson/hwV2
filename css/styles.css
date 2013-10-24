@@ -200,6 +200,9 @@ dd, li {
 	padding-bottom: .25em;
 }
 
+.pizzas {
+	padding: 5%;
+}
 .pizzas div {
 	width: 45%;
 }
