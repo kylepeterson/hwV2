@@ -204,6 +204,11 @@ dd, li {
 	width: 45%;
 }
 
+#drinks-and-dessert {
+	margin-top: 20px;
+	clear: both
+}
+
 strong {
 	font-style: italic;
 	font-size: 2em;
