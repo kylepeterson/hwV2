@@ -17,7 +17,7 @@
 
 			<section id="info">
 				<div class="row">
-						<div class="info-pane" class="info-pane">
+						<div class="col-md-6" class="info-pane">
 							<p>
 								Hours:
 								<br>
