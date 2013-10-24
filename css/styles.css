@@ -204,17 +204,6 @@ iframe {
 
 /* Menu Section of the menu page */
 
-h1 {
-	font-size: 4em;
-}
-
-h2 {
-	font-size: 3em;
-}
-
-h3 {
-	font-size: 2em;
-}
 
 dt {
 	font-weight: bold;
@@ -250,6 +239,34 @@ strong {
 }
 
 /* About us section */
+
+@media (min-width: 992px) {
+  	h1 {
+		font-size: 4em;
+	}
+
+	h2 {
+		font-size: 3em;
+	}
+
+	h3 {
+		font-size: 2em;
+	}
+}
+
+@media (min-width: 1px) {
+  	h1 {
+		font-size: 3em;
+	}
+
+	h2 {
+		font-size: 2em;
+	}
+
+	h3 {
+		font-size: 1em;
+	}
+}
 #about {
 	background-color: white;
 	text-align: left;
