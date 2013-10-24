@@ -32,7 +32,6 @@ body {
 }
 
 .container {
-	ma
 	margin: 0 auto;
 	margin-top: 50px;
 	margin-bottom: 50px;
@@ -222,6 +221,17 @@ dd, #menu li, dl, h1, h2, h3, dt, #menu ul, #menu p {
 	font-weight: bold;
 }
 
+h1 {
+	font-size: 4em;
+}
+
+h2 {
+	font-size: 3em;
+}
+
+h3 {
+	font-size: 2em;
+}
 
 #drinks-and-dessert {
 	margin-top: 20px;
@@ -236,7 +246,7 @@ strong {
 }
 
 /* About us section */
-
+/*
 @media (min-width: 992px) {
   	h1 {
 		font-size: 4em;
@@ -263,7 +273,7 @@ strong {
 	h3 {
 		font-size: 1em;
 	}
-}
+}*/
 
 #about {
 	background-color: white;
