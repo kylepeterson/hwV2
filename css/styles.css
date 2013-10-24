@@ -19,11 +19,18 @@ body {
 	background-attachment: fixed;
 }
 
-@media (min-width: 0px) {
-  .container {
-	max-width: 500px; 
-  }
+@media (min-width: 1px) {
+  	.container {
+		max-width: 500px; 
+  	}
 }
+
+@media (min-width: 992px) {
+	.container {
+		max-width: 820px;
+	}
+}
+
 .container {
 	ma
 	margin: 0 auto;
