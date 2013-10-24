@@ -222,9 +222,6 @@ dd, #menu li, dl, h1, h2, h3, dt, #menu ul, #menu p {
 	font-weight: bold;
 }
 
-#pizzas div {
-	width: 50%;
-}
 
 #drinks-and-dessert {
 	margin-top: 20px;
@@ -267,6 +264,7 @@ strong {
 		font-size: 1em;
 	}
 }
+
 #about {
 	background-color: white;
 	text-align: left;
