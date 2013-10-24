@@ -16,6 +16,8 @@ body {
 	margin: 0 auto;
 	margin-bottom: 50px;
 	position: relative;
+	background-image: url("../img/hexabump.png");
+
 }
 
 .pull-left {
@@ -109,6 +111,10 @@ nav li:hover, nav h1:hover {
 	left: 38%;
 	top: 410px;
 	padding: .5em;
+}
+
+.main-page-content {
+	text-align: center;
 }
 
 iframe {
