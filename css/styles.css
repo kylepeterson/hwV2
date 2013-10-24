@@ -130,7 +130,7 @@ nav li:hover, nav h1:hover {
 	padding: .5em;
 }
 
-@media (min-width: 820px) {
+@media (min-width: 1px) {
   #description {
 	font-size: 1em;
 	top: 33%;
