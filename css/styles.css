@@ -48,8 +48,9 @@ body {
 	float: right;
 }
 
-img:focus {
+a img:focus {
 	outline: rgb(106, 49, 142) solid 2px;
+	background-color: rgb(106, 49, 142);
 }
 
 /* Header area of the web page */
