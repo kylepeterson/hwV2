@@ -111,6 +111,10 @@ nav li:hover, nav h1:hover {
 	padding: .5em;
 }
 
+iframe {
+	border: 0;
+}
+
 /* Information section on the home page */
 #info {
 	color: black;
