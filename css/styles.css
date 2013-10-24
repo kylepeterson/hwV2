@@ -203,32 +203,17 @@ iframe {
 }
 
 /* Menu Section of the menu page */
-@media (min-width: 992px) {
-  	h1 {
-		font-size: 4em;
-	}
 
-	h2 {
-		font-size: 3em;
-	}
-
-	h3 {
-		font-size: 2em;
-	}
+h1 {
+	font-size: 4em;
 }
 
-@media (min-width: 1px) {
-  	h1 {
-		font-size: 3em;
-	}
+h2 {
+	font-size: 3em;
+}
 
-	h2 {
-		font-size: 2em;
-	}
-
-	h3 {
-		font-size: 1em;
-	}
+h3 {
+	font-size: 2em;
 }
 
 dt {
