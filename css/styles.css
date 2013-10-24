@@ -19,26 +19,8 @@ body {
 	background-attachment: fixed;
 }
 
-@media (min-width: 1200px) {
-	.container {
-		max-width: 820px;
-	}
-}
-
-@media (min-width: 992px) {
-	.container {
-		max-width: 820px;
-	}
-}
-
-@media (min-width: 768px) {
-	.container {
-		max-width: 500px;
-	}
-}
 
 .container {
-	max-width: 820px;
 	margin: 0 auto;
 	margin-bottom: 50px;
 	position: relative;
