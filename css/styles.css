@@ -165,12 +165,23 @@ iframe {
 	font-weight: bold;	
 }
 
+@media (min-width: 1px) {
+  	.info-pane {
+		font-size: 1em;  	
+	}
+}
+
+@media (min-width: 992px) {
+	.info-pane {
+		font-size: 1.5em;
+	}
+}
+
 .info-pane {
 	width: 50%;
 	padding: 2%;
 	margin: 0;
 	background-color: white;
-	font-size: 1.5em;
 	float: left;
 
 }
