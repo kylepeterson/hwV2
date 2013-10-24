@@ -190,12 +190,8 @@ dt {
 	font-weight: bold;
 }
 
-dd, li, dl, h1, h2, dt, ul, #menu p {
+dd, li, dl, h1, h2, h3 dt, ul, #menu p {
 	padding-bottom: .5em;
-}
-
-dt, li {
-	padding-bottom: .25em;
 }
 
 #menu {
