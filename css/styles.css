@@ -206,7 +206,9 @@ dd, li {
 
 #drinks-and-dessert {
 	margin-top: 20px;
-	clear: both
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 strong {
