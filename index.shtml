@@ -5,7 +5,7 @@
 <!-- Common heading content including meta data and header -->
 <!--#include virtual="header.html" -->
 			<section>
-				<img id="pizza1" src="img/pizza1.jpg">
+				<img id="pizza1" src="img/pizza1.jpg" alt="fresh pizzas">
 				<p id="description">
 					Awesome wood-fired pizza with fresh ingredients baked to order. Come in and eat, or call us for delivery!
 				</p>
@@ -17,7 +17,7 @@
 
 			<section id="info">
 				<div class="row">
-						<div class="col-md-6" class="info-pane">
+						<div class="col-md-6">
 							<p>
 								Hours:
 								<br>

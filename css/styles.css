@@ -48,8 +48,8 @@ body {
 	float: right;
 }
 
-.clear-both {
-	clear: both;
+:focus {
+	outline: rgb(106, 49, 142);
 }
 
 /* Header area of the web page */
@@ -168,6 +168,7 @@ iframe {
 .row {
 	margin-right: 0;
 	margin-left: 0;
+
 }
 
 @media (min-width: 1px) {
@@ -183,7 +184,6 @@ iframe {
 }
 
 #info .col-md-6 {
-	padding: 0;
 	background-color: white;
 }
 

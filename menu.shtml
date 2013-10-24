@@ -7,7 +7,7 @@
 
 <!--#include virtual="header.html" -->
 			<section>
-				<img id="pizza1" src="img/order.jpg">
+				<img id="pizza1" src="img/order.jpg" alt="an ordering stand for pizza">
 			</section>
 
 			<section id = "menu"> 
